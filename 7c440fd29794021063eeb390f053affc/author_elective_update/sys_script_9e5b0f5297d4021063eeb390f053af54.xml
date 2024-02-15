@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_1314287_iplookup_ipaddressinfo</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Populate IP Address City</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-14 05:20:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9e5b0f5297d4021063eeb390f053af54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Populate IP Address City</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPLookup" source="x_1314287_iplookup">7c440fd29794021063eeb390f053affc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">7c440fd29794021063eeb390f053affc</sys_scope>
+        <sys_update_name>sys_script_9e5b0f5297d4021063eeb390f053af54</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-14 05:20:03</sys_updated_on>
+        <template/>
+        <when>async_always</when>
+    </sys_script>
+    <sys_translated_text action="DELETE" query="documentkey=9e5b0f5297d4021063eeb390f053af54"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IPLookup">7c440fd29794021063eeb390f053affc</application>
+        <file_path/>
+        <instance_id>c8bd2f4fdb6a311405ef17291396196a</instance_id>
+        <instance_name>dev219920</instance_name>
+        <name>sys_script_9e5b0f5297d4021063eeb390f053af54</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;x_1314287_iplookup_ipaddressinfo&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Populate IP Address City&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// Add your code here
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-02-14 05:20:03&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;9e5b0f5297d4021063eeb390f053af54&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Populate IP Address City&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="IPLookup" source="x_1314287_iplookup"&gt;7c440fd29794021063eeb390f053affc&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="IPLookup"&gt;7c440fd29794021063eeb390f053affc&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_9e5b0f5297d4021063eeb390f053af54&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-02-14 05:20:03&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;async_always&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=9e5b0f5297d4021063eeb390f053af54"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1499134343</payload_hash>
+        <record_name>Populate IP Address City</record_name>
+        <reverted_from/>
+        <source>3c44c75a9794021063eeb390f053af07</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-14 05:20:04</sys_created_on>
+        <sys_id>92cb8b5297d4021063eeb390f053afd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18da60ecc1d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-14 05:20:04</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>96cb8b5253d40210f9a9489a88870ad2</update_guid>
+        <update_guid_history>96cb8b5253d40210f9a9489a88870ad2:-1499134343</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-15 05:15:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>7fd25078291f4966bd5d40daf96bbee9</sys_id>
+        <sys_metadata>9e5b0f5297d4021063eeb390f053af54</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Populate IP Address City</sys_name>
+        <sys_package display_value="IPLookup" source="x_1314287_iplookup">7c440fd29794021063eeb390f053affc</sys_package>
+        <sys_parent display_value="IPAddressInfo">68fa435297d4021063eeb390f053afba</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">7c440fd29794021063eeb390f053affc</sys_scope>
+        <sys_scope_delete display_value="">1684d308c8534e4899e4a79fd57da490</sys_scope_delete>
+        <sys_update_name>sys_script_9e5b0f5297d4021063eeb390f053af54</sys_update_name>
+        <sys_update_version display_value="sys_script_9e5b0f5297d4021063eeb390f053af54">92cb8b5297d4021063eeb390f053afd3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-15 05:15:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
